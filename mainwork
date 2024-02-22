@@ -11,7 +11,7 @@ const testCountShips = (board) => {
       x = 0;
       y++;
     }
-
+// hello 
     if (y > height - 1) {
       return total;
     }
